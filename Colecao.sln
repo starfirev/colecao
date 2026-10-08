@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecao.Array", "Colecao.Array\Colecao.Array.csproj", "{FFD5896D-E622-4C99-927A-516BD1F6D62A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadeArray.1", "AtividadeArray.1\AtividadeArray.1.csproj", "{886779BC-1F37-45FB-8CB0-D45439C1BA3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadeArray.2", "AtividadeArray.2\AtividadeArray.2.csproj", "{7C0B0C75-3003-4534-BE4F-3DEF43D9C42D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD5896D-E622-4C99-927A-516BD1F6D62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD5896D-E622-4C99-927A-516BD1F6D62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD5896D-E622-4C99-927A-516BD1F6D62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD5896D-E622-4C99-927A-516BD1F6D62A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886779BC-1F37-45FB-8CB0-D45439C1BA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886779BC-1F37-45FB-8CB0-D45439C1BA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886779BC-1F37-45FB-8CB0-D45439C1BA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886779BC-1F37-45FB-8CB0-D45439C1BA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0B0C75-3003-4534-BE4F-3DEF43D9C42D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0B0C75-3003-4534-BE4F-3DEF43D9C42D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0B0C75-3003-4534-BE4F-3DEF43D9C42D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0B0C75-3003-4534-BE4F-3DEF43D9C42D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
